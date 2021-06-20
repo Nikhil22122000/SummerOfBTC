@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-set<string> included_tx_id;
 string inputFile = "mempool.csv";
 double maxwt = 4000000.0;
 
